@@ -1,11 +1,11 @@
 {
   "item.culturaldelights.cucumber_seeds": "Семена огурца",
-  "item.culturaldelights.eggplant_seeds": "Семена баклажанов",
+  "item.culturaldelights.eggplant_seeds": "Семена баклажана",
   "item.culturaldelights.corn_kernels": "Кукурузные зёрна",
   "block.culturaldelights.exotic_roll_medley": "Экзотическое попурри из роллов",
 
   "item.culturaldelights.avocado": "Авокадо",
-  "item.culturaldelights.cut_avocado": "Нарезанный авокадо",
+  "item.culturaldelights.cut_avocado": "Нарезанное авокадо",
   "item.culturaldelights.cucumber": "Огурец",
   "item.culturaldelights.pickle": "Солёный огурец",
   "item.culturaldelights.cut_cucumber": "Нарезанный огурец",
@@ -26,7 +26,7 @@
   "item.culturaldelights.tortilla_chips": "Чипсы из тортильи",
   "item.culturaldelights.squid": "Спрут",
   "item.culturaldelights.glow_squid": "Светящийся спрут",
-  "item.culturaldelights.cooked_squid": "Приготовленный спрут",
+  "item.culturaldelights.cooked_squid": "Жареный спрут",
   "item.culturaldelights.raw_calamari": "Сырые кальмары",
   "item.culturaldelights.cooked_calamari": "Жареные кальмары",
 
@@ -43,7 +43,7 @@
   "item.culturaldelights.pork_wrap": "Рулет со свининой",
   "item.culturaldelights.fish_taco": "Рыбное тако",
   "item.culturaldelights.poached_eggplants": "Баклажаны пашот",
-  "item.culturaldelights.eggplant_parmesan": "Тарелка баклажанов с пармезаном",
+  "item.culturaldelights.eggplant_parmesan": "Тарелка баклажанов пармиджано",
 
   "item.culturaldelights.chicken_roll": "Ролл с курицей",
   "item.culturaldelights.midori_roll": "Ролл мидори",
@@ -64,7 +64,7 @@
   "block.culturaldelights.wild_cucumbers": "Дикие огурцы",
   "block.culturaldelights.wild_corn": "Дикая кукуруза",
   "block.culturaldelights.wild_eggplants": "Дикие баклажаны",
-  "block.culturaldelights.avocado_log": "Бревно из авокадо",
+  "block.culturaldelights.avocado_log": "Бревно авокадо",
   "block.culturaldelights.avocado_wood": "Доски из авокадо",
   "block.culturaldelights.avocado_leaves": "Листья авокадо",
   "block.culturaldelights.fruiting_avocado_leaves": "Плодоносящие листья авокадо",
@@ -76,7 +76,7 @@
   "block.culturaldelights.corn_cob_crate": "Ящик с кукурузными початками",
   "block.culturaldelights.eggplant_crate": "Ящик с баклажанами",
   "block.culturaldelights.white_eggplant_crate": "Ящик с белыми баклажанами",
-  "block.culturaldelights.eggplant_parmesan_block": "Баклажаны с пармезаном",
+  "block.culturaldelights.eggplant_parmesan_block": "Баклажаны пармиджано",
 
   "creativetab.culturaldelights.culturaldelights_tab": "Культурные Изыски",
 
